@@ -1,4 +1,4 @@
-# Otus HomeWork 02
+# Otus HomeWork 03
 Реализация Service Locator и Dependency Injection и изолированности слоев в приложении
 1. Создать ServiceLocator (можно на дженериках)
 2. Перевести существующие сервисы на него
